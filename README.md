@@ -1,4 +1,4 @@
-# midtermpr1
+# Foop-app
 
 A new Flutter project.
 
